@@ -1,0 +1,4 @@
+Search for teachers and cource
+In order to find teacher and find out which cource he teaches
+As a user
+I want to be able to look up teachers in SkillsUp school
